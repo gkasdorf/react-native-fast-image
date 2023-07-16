@@ -1,3 +1,9 @@
+<h1>Note</h1>
+
+This is forked from FastImage 8.6.3. It applies patch from [here](https://github.com/DylanVann/react-native-fast-image/issues/877)
+allowing for obtaining the URI of the cached image. This has been tested with iOS but not with Android. Test before
+using.
+
 <h1 align="center">
   🚩 FastImage
 </h1>
